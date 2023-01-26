@@ -1,2 +1,2 @@
 # JavaScript
-Basics of Javascript
+Contact Form using HTML, CSS and Javascript
